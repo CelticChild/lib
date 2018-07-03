@@ -7,13 +7,13 @@ int main(){
 	long long int llinteger;
 	char c;
 	
-	integer=read(integer);
-	print(integer);
+	integer=read(integer); //讀入 
+	print(integer); //印出 
 	
 	llinteger=read(llinteger);
 	print(llinteger);
 	
-	while(readEOF(integer)){ //read until EOF
+	while(readEOF(integer)){ //讀入直到EOF
 		print(integer);
 	}
 	

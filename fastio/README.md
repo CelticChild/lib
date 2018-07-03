@@ -1,5 +1,11 @@
-# lib
+# fastio
 fast input and output
+
+使用：
+
+下載fastio.h
+
+main.cpp有範例語法
 
 目前功能：
 
